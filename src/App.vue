@@ -42,6 +42,9 @@ export default {
 </script>
 
 <style lang="scss">
+body{
+  background:#333;
+}
 #app {
   font-family: "Avenir", Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -70,8 +73,8 @@ export default {
 
 h1 {
   padding: 12px;
-  color: #2c82d8;
-  font-size: 1rem;
+  color: #fff;
+  font-size: 1.5rem;
   font-weight: bold;
 }
 </style>
